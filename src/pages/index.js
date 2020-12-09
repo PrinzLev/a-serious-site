@@ -15,7 +15,7 @@ const IndexPage = () => {
       </p>
       <p>
         You can also contact me through{" "}
-        <a href="https://facebook.com/jericho.irvin" target="__blank">
+        <a href="https://facebook.com/" target="__blank">
           Facebook.
         </a>
       </p>
