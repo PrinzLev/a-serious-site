@@ -1,0 +1,25 @@
+.container {
+  background-color: #f4f3f3;
+  padding: 20px;
+  margin: 10px;
+  line-height: 0.5;
+  width: 35vw;
+
+  &:hover {
+    background-color: #dfdfdf;
+  }
+  .blogTitle {
+    text-decoration: none;
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #222831;
+  }
+  span {
+    font-size: 0.75rem;
+    color: #706c61;
+  }
+}
+.blogContainer {
+  text-decoration: none;
+  width: 20vw;
+}
